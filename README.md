@@ -9,3 +9,5 @@ Select what you would like to sweep, its starting point, and how many steps in e
 It should then generate them in a new document that can then be printed.
 
 You can then copy back the mask you picked to the cropped document and stack additional filters ontop of that. My normal workflow is finding the best exposure then copying it back and finding the best contrast. This feature should work for as many filters you have. Unexpected behavior may happen if you stack multiple of the same filter.
+
+<img src="demo.gif">
